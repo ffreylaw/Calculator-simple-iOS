@@ -75,7 +75,6 @@
                                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                                 <state key="normal" title="7"/>
                                                 <connections>
-                                                    <action selector="seven:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Mcz-Hd-EAr"/>
                                                     <action selector="touchDigit:" destination="BYZ-38-t0r" eventType="touchUpInside" id="lFQ-x2-q2d"/>
                                                 </connections>
                                             </button>
